@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mLoading global plugins from /Users/nicolas/.sbt/plugins[0m
+[0m[[0minfo[0m] [0mSet current project to Botify Spark (in build file:/Users/nicolas/Downloads/spark-0.7.0/botify/)[0m
+[0m[[0minfo[0m] [0mRunning SimpleJob [0m
+Pages by status code
+Code	Count
+0	4734
+200	386845
+301	23146
+302	130981
+400	26
+404	1195
+500	187
+NEGATIVE	105
+Pages by response time buckets (delay2.ms)
+Bucket	Count
+< 500 ms	522424
+< 500 ms and <= 1 s	21567
+> 1s	3228
+[0m[[32msuccess[0m] [0mTotal time: 11 s, completed Apr 24, 2013 5:05:13 PM[0m
